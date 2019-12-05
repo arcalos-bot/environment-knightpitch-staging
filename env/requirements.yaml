@@ -10,3 +10,6 @@ dependencies:
 - name: jx-nodejs
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.15
+- name: my-new-app-lisbon
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
